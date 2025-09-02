@@ -1,12 +1,12 @@
 
-.circle{
+.Arithmetic{
     display: inline-block;
     line-height: 50px;
     text-align: center;
     height: 50px;
     width: 50px;
     border-radius: 50px;
-    background-color: gray;
+    background-color:orangered;
     color: white;
     margin-bottom: 1px;
 }

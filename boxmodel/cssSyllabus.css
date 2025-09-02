@@ -1,0 +1,8 @@
+div {
+  text-align: center;
+}
+
+#list ul {
+  list-style-position: inside;
+  padding-left: 0;             /* remove default browser padding */
+}
